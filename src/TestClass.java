@@ -5,7 +5,7 @@ public class TestClass {
 		// TODO Auto-generated method stub
 		System.out.println("This is a test!");
 		System.out.println("Did It?");
-		System.out.println("Yes!");
+		System.out.println("This is a test of the Pull Function");
 	}
 
 }
